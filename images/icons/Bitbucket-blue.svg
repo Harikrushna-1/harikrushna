@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>0F91CE7C-DAB2-4595-897C-C61E57FE5A90</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="108.531746%" y1="13.9409703%" x2="47.0238095%" y2="78.8201013%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="20%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6a-Agency" transform="translate(-1157.000000, -4777.000000)">
+            <g id="Section-4" transform="translate(0.000000, 4172.000000)">
+                <g id="logo" transform="translate(828.000000, 605.000000)">
+                    <g id="Bitbucket-blue" transform="translate(329.000000, 0.000000)">
+                        <polygon id="Shape" points="11.24375 16.4473684 16.93125 16.4473684 18.375 8.37719298 9.7125 8.37719298"></polygon>
+                        <path d="M1.3125,0.131578947 C1.05579613,0.128664629 0.810766318,0.238912225 0.642311902,0.433120324 C0.473857486,0.627328423 0.398975491,0.885901456 0.4375,1.14035088 L4.15625,23.6842105 C4.24358812,24.268944 4.74776153,24.6995014 5.3375,24.6929825 L23.14375,24.6929825 C23.580063,24.6979274 23.9533268,24.3798579 24.01875,23.9473684 L27.7375,1.09649123 C27.7760245,0.842041807 27.7011425,0.583468774 27.5326881,0.389260675 C27.3642337,0.195052576 27.1192039,0.08480498 26.8625,0.0877192982 L1.3125,0.131578947 Z M16.975,16.4473684 L11.2875,16.4473684 L9.7125,8.37719298 L18.375,8.37719298 L16.975,16.4473684 Z" id="Shape" fill="#2684FF" fill-rule="nonzero"></path>
+                        <path d="M26.55625,8.37719298 L18.33125,8.37719298 L16.975,16.4473684 L11.2875,16.4473684 L4.50625,24.4298246 C4.72201242,24.6260015 5.00246938,24.7353415 5.29375,24.7368421 L23.1,24.7368421 C23.536313,24.741787 23.9095768,24.4237176 23.975,23.9912281 L26.55625,8.37719298 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
